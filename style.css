@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'josefin sans', sans-serif;
+    box-sizing: border-box;
+}
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./assets/cover/cover.jpg);
+	background-size: cover;
+	background-position: center;
+}
